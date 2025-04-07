@@ -2,20 +2,7 @@
 
 This repository contains three Artificial Intelligence projects developed as part of the CS 520 course. Each part focuses on a different AI strategy and application in a dynamic environment with agents, obstacles, and objectives.
 
----
-
-## 📁 Project Structure
-
-```text
-.
-├── Part1_AStar/ │ ├── project1_code/ │ ├── report.pdf │ └── README.md ├── Part2_Bayesian/ │ ├── project2_code/ │ ├── report.pdf │ └── README.md ├── Part3_MDP/ │ ├── project3_code/ │ ├── report.pdf │ └── README.md
-
-```
-
-
----
-
-## 🧠 Part 1: A\* Based Bot Navigation
+## 🧠 Part 1: A* Based Bot Navigation
 
 ### Problem
 Navigate a bot to rescue the captain in a ship grid while avoiding dynamically moving aliens.
