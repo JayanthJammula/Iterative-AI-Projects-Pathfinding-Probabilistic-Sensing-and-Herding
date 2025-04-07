@@ -1,6 +1,6 @@
-# 🚀 AI Projects Collection - CS 520
+# 🚀 Iterative AI Projects: Pathfinding, Probabilistic Sensing, and Herding
 
-This repository contains three Artificial Intelligence projects developed as part of the CS 520 course. Each part focuses on a different AI strategy and application in a dynamic environment with agents, obstacles, and objectives.
+This repository contains three Artificial Intelligence projects. Each part focuses on a different AI strategy and application in a dynamic environment with agents, obstacles, and objectives.
 
 ## 🧠 Part 1: A* Based Bot Navigation
 
